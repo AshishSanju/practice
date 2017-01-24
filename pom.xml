@@ -5,12 +5,13 @@
 	<artifactId>SpringRestExample</artifactId>
 	<name>SpringRestExample</name>
 	<packaging>war</packaging>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<scm>
 		<connection>scm:git:git@github.com:AshishSanju/practice</connection>
 	    <developerConnection>scm:git:git@github.com:AshishSanju/practice</developerConnection>
 	    <url>scm:git:git@github.com:AshishSanju/practice</url>
-	</scm>
+	  <tag>SpringRestExample-1.0.0</tag>
+  </scm>
 	<distributionManagement>
     <repository>
         <id>central</id>
