@@ -7,9 +7,9 @@
 	<packaging>war</packaging>
 	<version>2.0.5-SNAPSHOT</version>
 	<scm>
-		<connection>scm:git:git@github.com/AshishSanju/practice</connection>
-	    <developerConnection>scm:git:git@github.com/AshishSanju/practice</developerConnection>
-	    <url>scm:git:git@github.com/AshishSanju/practice</url>
+		<connection>scm:git:https://github.com/AshishSanju/practice</connection>
+	    <developerConnection>scm:git:https://github.com/AshishSanju/practice</developerConnection>
+	    <url>scm:git:https://github.com/AshishSanju/practice</url>
 	<tag>HEAD</tag>
     </scm>
 	<distributionManagement>
