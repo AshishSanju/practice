@@ -16,7 +16,7 @@
     <repository>
         <id>central</id>
         <name>Miracle-PC-releases</name>
-        <url>http://8108f643.ngrok.io//</url>
+        <url>http://9eeac1bb.ngrok.io</url>
     </repository>
 	</distributionManagement>
 	<properties>
