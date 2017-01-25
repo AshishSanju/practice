@@ -16,7 +16,7 @@
     <repository>
         <id>central</id>
         <name>Miracle-PC-releases</name>
-        <url>http://localhost:8081/artifactory/</url>
+        <url>http://http://8108f643.ngrok.io//</url>
     </repository>
 	</distributionManagement>
 	<properties>
