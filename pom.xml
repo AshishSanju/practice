@@ -146,6 +146,18 @@
 		</extensions>
 		<plugins>
 			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-release-plugin</artifactId>
+				<version>2.5.3</version>
+				<configuration>
+                    <goals>install</goals>	
+					<autoversionsubmodules>true</autoversionsubmodules>
+					<checkModificationExcludes>
+						<checkModificationExclude>pom.xml</checkModificationExclude>
+					</checkModificationExcludes>
+				</configuration>
+			</plugin>
+			<plugin>
 				<artifactId>maven-eclipse-plugin</artifactId>
 				<version>2.9</version>
 				<configuration>
@@ -179,7 +191,7 @@
 					<mainClass>org.test.int1.Main</mainClass>
 				</configuration>
 			</plugin>
-			<plugin>
+			<!--<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-release-plugin</artifactId>
 				<version>2.5.3</version>
@@ -190,7 +202,7 @@
 						<checkModificationExclude>pom.xml</checkModificationExclude>
 					</checkModificationExcludes>
 				</configuration>
-			</plugin>
+			</plugin>-->
 		</plugins>
     </build>
 </project>
