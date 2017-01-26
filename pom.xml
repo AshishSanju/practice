@@ -16,7 +16,7 @@
     <repository>
         <id>central</id>
         <name>Miracle-PC-releases</name>
-        <url>http://9eeac1bb.ngrok.io/artifactory/webapp/#/home</url>
+        <url>http://10db49d3.ngrok.io/artifactory/webapp/#/home</url>
     </repository>
 	</distributionManagement>
 	<properties>
