@@ -5,7 +5,7 @@
 	<artifactId>SpringRestExample</artifactId>
 	<name>SpringRestExample</name>
 	<packaging>war</packaging>
-	<version>1.0.51-SNAPSHOT</version>
+	<version>1.0.56-SNAPSHOT</version>
 	<scm>
 	    <connection>scm:git:git@github.com:AshishSanju/practice.git</connection>
 	    <developerConnection>scm:git:git@github.com:AshishSanju/practice.git</developerConnection>
