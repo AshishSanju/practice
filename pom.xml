@@ -10,7 +10,7 @@
 	    <connection>scm:git:git@github.com:AshishSanju/practice.git</connection>
 	    <developerConnection>scm:git:git@github.com:AshishSanju/practice.git</developerConnection>
 	    <url>scm:git:git@github.com:AshishSanju/practice.git</url>
-    <tag>SpringRestExample-1.0.79</tag>
+    <tag>Head</tag>
     </scm>
 	<distributionManagement>
     <repository>
